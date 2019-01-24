@@ -1,0 +1,6 @@
+INPUT
+1.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod quidem iam fit etiam in Academia. Qua tu etiam inprudens utebare non numquam. Duo Reges: constructio interrete. Quod autem ratione actum est, id officium appellamus. Hoc etsi multimodis reprehendi potest, tamen accipio, quod dant. Qui potest igitur habitare in beata vita summi mali metus?
+2.At, illa, ut vobis placet, partem quandam tuetur, reliquam deserit. Atqui iste locus est, Piso, tibi etiam atque etiam confirmandus, inquam; Sic consequentibus vestris sublatis prima tolluntur. Naturales divitias dixit parabiles esse, quod parvo esset natura contenta. Quamquam haec quidem praeposita recte et reiecta dicere licebit. Ex quo intellegitur officium medium quiddam esse, quod neque in bonis ponatur neque in contrariis.
+OUTPUT
+1.consectetur adipiscing Academia inprudens utebare numquam constructio interrete ratione officium appellamus multimodis reprehendi accipio habitare
+2.quandam reliquam deserit confirmandus consequentibus vestris sublatis tolluntur Naturales divitias parabiles contenta Quamquam praeposita reiecta licebit intellegitur officium quiddam ponatur contrariis
